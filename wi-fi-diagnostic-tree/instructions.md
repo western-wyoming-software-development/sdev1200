@@ -1,6 +1,8 @@
 # Instructions  
 
-The Wi-Fi Diagnostic Tree Flowchart ![](Flowchart.png) shows a simplified flowchart for troubleshooting a bad Wi-Fi connection. Use the flowhart to create a program that leads a person through the steps of fixing a bad Wi-Fi connection. Here is an example of the program's output:
+The Wi-Fi Diagnostic Tree Flowchart shows a simplified flowchart for troubleshooting a bad Wi-Fi connection. Use the flowhart to create a program that leads a person through the steps of fixing a bad Wi-Fi connection. Here is an example of the program's output:
+
+![](Flowchart.png)
 
 ```python
 Reboot the computer and try to connect.
