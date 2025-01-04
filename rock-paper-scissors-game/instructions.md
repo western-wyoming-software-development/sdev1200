@@ -6,6 +6,6 @@ Write a program that lets the user play the game of Rock, Paper, Scissors agains
 2. The user enters his or her choice of “rock,” “paper,” or “scissors” at the keyboard. 
 3. The computer’s choice is displayed. 
 4. A winner is selected according to the following rules: • If one player chooses rock and the other player chooses scissors, then rock wins. (Rock smashes scissors.) 
-  - If one player chooses scissors and the other player chooses paper, then scissors wins. (Scissors cuts paper.) 
-  - If one player chooses paper and the other player chooses rock, then paper wins. (Paper wraps rock.) 
-  - If both players make the same choice, the game must be played again to determine the winner.
+   - If one player chooses scissors and the other player chooses paper, then scissors wins. (Scissors cuts paper.) 
+   - If one player chooses paper and the other player chooses rock, then paper wins. (Paper wraps rock.) 
+   - If both players make the same choice, the game must be played again to determine the winner.
