@@ -1,7 +1,7 @@
 #
 # Name
 # Date
-# Hello Word! Again
+# Wi-Fi Diagnostic Tree Programming Project
 # COSC 1200 
 #
 

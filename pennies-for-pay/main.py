@@ -1,7 +1,7 @@
 #
 # Name
 # Date
-# Hello Word! Again
+# Pennies for Pay Programming Project
 # COSC 1200 
 #
 
