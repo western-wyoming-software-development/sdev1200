@@ -1,7 +1,7 @@
 #
 # Name
 # Date
-# Cash Register Programming Project
+# Rock, Paper, Scissors Game Programming Project
 # SDEV 1200
 #
 

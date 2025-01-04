@@ -7,4 +7,4 @@
 
 # Declare variables.
 
-# Use comments liberally.
+# Use comments liberally throughout the program.
