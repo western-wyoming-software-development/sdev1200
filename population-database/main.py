@@ -1,7 +1,7 @@
 #
 # Name
 # Date
-# Employee Class Programming Project
+# Population Database Programming Project
 # SDEV 1200
 #
 

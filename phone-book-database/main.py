@@ -1,7 +1,7 @@
 #
 # Name
 # Date
-# Employee Class Programming Project
+# Phone Book Database Programming Project
 # SDEV 1200
 #
 

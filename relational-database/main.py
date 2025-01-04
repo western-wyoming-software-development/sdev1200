@@ -1,7 +1,7 @@
 #
 # Name
 # Date
-# Employee Class Programming Project
+# Relational Database Programming Project
 # SDEV 1200
 #
 
