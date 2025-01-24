@@ -1,9 +1,12 @@
 #
-# Old Man Joe
-# 1/24/2025
+# Name
+# Date
 # Name and Address Programming Project
 # SDEV 1200
 #
+# Use comments liberally throughout the program.
+# The code below was auto-generated.
+# Delete unnecessary code.
 
 import tkinter as tk
 
