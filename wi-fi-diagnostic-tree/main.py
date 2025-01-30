@@ -35,7 +35,10 @@
 
 
 # set variable for question based on level of decision
-instuction = ["Reboot the computer and try to connect.", "Reboot the router and try to connect.", "Make sure the cables between the router and modem are plugged in firmly.", "Move the router to a new location." ]
+instuction = ["Reboot the computer and try to connect.", 
+              "Reboot the router and try to connect.", 
+              "Make sure the cables between the router and modem are plugged in firmly.", 
+              "Move the router to a new location." ]
 fix = ""     # Use this variable for answering if the problem is fixed
 
 for i in range(1,5):                            # use a loop to ask each question
