@@ -18,12 +18,16 @@
 import math
 
 def is_prime(number):
-    if (number <= 1) :                              # if number is <= 1 it is automatically false
+    # if number is <= 1 it is automatically false
+    if (number <= 1) :                              
         return False
-    for i in range(2, int(math.sqrt(number)+1)) :   # if a factorial is not found before the square root, it will not be found
-        if (number % i == 0) :                      # a factorial number will not have a remainder
+    # if a factorial is not found before the square root, 
+    # it will not be found, a factorial number will not have a remainder
+    for i in range(2, int(math.sqrt(number)+1)) :   
+        if (number % i == 0) :                      
             return False
-    return True                                     # by reaching this point, a factorial has not been found
+    # by reaching this point, a factorial has not been found
+    return True                                     
         
 
 
