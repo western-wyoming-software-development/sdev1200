@@ -21,7 +21,7 @@
 
 # A class named `Employee` that holds the following data about an employee in attributes: 
 # name, ID number, department, and job title.
-include employee.py
+import employee
 
 def main():
     # Create three Employee objects to hold the following data:
