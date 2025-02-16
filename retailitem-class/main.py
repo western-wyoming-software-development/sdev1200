@@ -15,7 +15,7 @@
 #| Item #2 | Designer Jeans | 40                 | 34.95 |
 #| Item #3 | Shirt          | 20                 | 24.95 |
 
-include retailitem.py
+import retailitem
 
 def main():
     # Create three RetailItem objects to hold the following data:
