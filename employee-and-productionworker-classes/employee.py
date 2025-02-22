@@ -57,7 +57,7 @@ class ProductionWorker(Employee):
 		
         # The __init__method initalizes the attributes.
         self.__shift = shift
-        self.__pay_rate_hourly = pay_rate_hourly
+        self.__pay_rate_hourly = round(pay_rate_hourly,2)
         
     # The set_shift method assigns a value to the `__shift` field.
     def set_shift(self, shift):
@@ -65,7 +65,7 @@ class ProductionWorker(Employee):
 
     # The set_pay_rate_hourly method assigns a value to the `__pay_rate_hourly` field.
     def set_pay_rate_hourly(self, pay_rate_hourly):
-        self.__pay_rate_hourly = pay_rate_hourly
+        self.__pay_rate_hourly = round(pay_rate_hourly,2)
         
     # The get_shift method returns the value of the `__shift` field.
     def get_shift(self):

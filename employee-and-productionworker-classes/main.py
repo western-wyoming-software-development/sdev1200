@@ -50,7 +50,7 @@ def main():
 	print('Name: ', my_worker.get_name())
 	print('Id Number: ', my_worker.get_id_number())
 	print('Shift: ', my_worker.get_shift())
-	print(f'Hourly Pay Rate: {my_worker.get_pay_rate_hourly()}')
+	print(f'Hourly Pay Rate: ${my_worker.get_pay_rate_hourly():.2f}')
 
 # Call the main function ONLY if the file is being run as a standalone program.
 if __name__ == "__main__" :
