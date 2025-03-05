@@ -1,11 +1,4 @@
 {
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "ms-python.python"
-            ]
-        }
-    },
     "features": {
         "ghcr.io/devcontainers/features/desktop-lite": {}
     },
