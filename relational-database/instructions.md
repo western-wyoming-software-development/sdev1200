@@ -2,8 +2,8 @@
 
 In this assignment, you will create a database named `student_info.db` that holds the following information about students at a college:
 
-* The student’s name
-* The student’s major
+* The studentâ€™s name
+* The studentâ€™s major
 * The department in which the student is enrolled 
 
 The database should have the following tables:
@@ -44,7 +44,7 @@ The following image shows an entity relationship diagram for the database.
   - ___ Delete an existing major 
   - ___ Show a list of all majors 
 
-* Write a program that performs CRUD operations on the Departments table. Specifi-cally, the program should allow the user to do the following:
+* Write a program that performs CRUD operations on the Departments table. Specifically, the program should allow the user to do the following:
   - ___ Add a new department 
   - ___ Search for an existing department 
   - ___ Update an existing department 
